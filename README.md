@@ -1,1 +1,2 @@
-"# GamingBorsa" 
+Gaming Borsa Geliştirilme aşamasında
+
